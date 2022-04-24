@@ -1,2 +1,3 @@
 I'm stupid.
-so fuck me.
+<<<<<<< HEAD
+so fuck you.
